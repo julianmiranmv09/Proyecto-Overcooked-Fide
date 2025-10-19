@@ -11,7 +11,6 @@ package com.mycompany.overcookedfide;
 public class OvercookedFide {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("hola");
+        
     }
 }
