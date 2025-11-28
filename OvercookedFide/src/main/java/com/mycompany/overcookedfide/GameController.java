@@ -9,7 +9,6 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * Controlador principal del juego OverCooked-Fide
  * @author Neto
  */
 public class GameController {
